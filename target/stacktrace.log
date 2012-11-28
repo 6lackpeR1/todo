@@ -1,0 +1,228 @@
+2012-11-27 21:59:46,277 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.Task.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), last(), any()
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:22)
+2012-11-27 21:59:46,288 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.Task.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), last(), any()
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:22)
+2012-11-27 21:59:46,307 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.Task.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), last(), any()
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:22)
+2012-11-27 21:59:46,316 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.Task.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), last(), any()
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:22)
+2012-11-27 21:59:46,354 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.Task.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), last(), any()
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:22)
+2012-11-27 21:59:46,361 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.Task.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), last(), any()
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:22)
+2012-11-27 22:01:26,563 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.Task.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), last(), any()
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:22)
+2012-11-27 22:01:26,571 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.Task.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), last(), any()
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:22)
+2012-11-27 22:01:26,590 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.Task.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), last(), any()
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:22)
+2012-11-27 22:01:26,599 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.Task.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), last(), any()
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:22)
+2012-11-27 22:01:26,641 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.Task.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), last(), any()
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:22)
+2012-11-27 22:01:26,650 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.Task.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), last(), any()
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:22)
+2012-11-27 22:05:11,542 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.Task.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), last(), any()
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:25)
+2012-11-27 22:05:11,553 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.Task.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), last(), any()
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:25)
+2012-11-27 22:05:11,571 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.Task.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), last(), any()
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:25)
+2012-11-27 22:05:11,580 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.Task.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), last(), any()
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:25)
+2012-11-27 22:05:11,627 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.Task.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), last(), any()
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:25)
+2012-11-27 22:05:11,636 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.Task.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), last(), any()
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:25)
+2012-11-28 10:26:40,481 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.Task.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), last(), any()
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:25)
+2012-11-28 10:26:40,490 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.Task.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), last(), any()
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:25)
+2012-11-28 10:26:40,505 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.Task.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), last(), any()
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:25)
+2012-11-28 10:26:40,513 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.Task.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), last(), any()
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:25)
+2012-11-28 10:26:40,580 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.Task.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), last(), any()
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:25)
+2012-11-28 10:26:40,581 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.Task.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), last(), any()
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:25)
+2012-11-28 10:32:24,949 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: Author for class: com.github.blythe.todo.TaskSpec
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:18)
+2012-11-28 10:32:24,954 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: Author for class: com.github.blythe.todo.TaskSpec
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:18)
+2012-11-28 10:32:24,960 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: Author for class: com.github.blythe.todo.TaskSpec
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:18)
+2012-11-28 10:32:24,962 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: Author for class: com.github.blythe.todo.TaskSpec
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:18)
+2012-11-28 10:32:24,977 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: Author for class: com.github.blythe.todo.TaskSpec
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:18)
+2012-11-28 10:32:24,977 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: Author for class: com.github.blythe.todo.TaskSpec
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:18)
+2012-11-28 10:33:06,475 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.TaskSpec.mockDomain() is applicable for argument types: (java.lang.Class) values: [class com.github.blythe.todo.Task]
+Possible solutions: mockCodec(java.lang.Class), mockFor(java.lang.Class)
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:18)
+2012-11-28 10:33:06,500 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.TaskSpec.mockDomain() is applicable for argument types: (java.lang.Class) values: [class com.github.blythe.todo.Task]
+Possible solutions: mockCodec(java.lang.Class), mockFor(java.lang.Class)
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:18)
+2012-11-28 10:33:06,535 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.TaskSpec.mockDomain() is applicable for argument types: (java.lang.Class) values: [class com.github.blythe.todo.Task]
+Possible solutions: mockCodec(java.lang.Class), mockFor(java.lang.Class)
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:18)
+2012-11-28 10:33:06,551 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.TaskSpec.mockDomain() is applicable for argument types: (java.lang.Class) values: [class com.github.blythe.todo.Task]
+Possible solutions: mockCodec(java.lang.Class), mockFor(java.lang.Class)
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:18)
+2012-11-28 10:33:06,577 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.TaskSpec.mockDomain() is applicable for argument types: (java.lang.Class) values: [class com.github.blythe.todo.Task]
+Possible solutions: mockCodec(java.lang.Class), mockFor(java.lang.Class)
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:18)
+2012-11-28 10:33:06,579 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.TaskSpec.mockDomain() is applicable for argument types: (java.lang.Class) values: [class com.github.blythe.todo.Task]
+Possible solutions: mockCodec(java.lang.Class), mockFor(java.lang.Class)
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:18)
+2012-11-28 10:42:37,006 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.Task.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), last(), any()
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:23)
+2012-11-28 10:42:37,019 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.Task.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), last(), any()
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:23)
+2012-11-28 10:42:37,043 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.Task.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), last(), any()
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:23)
+2012-11-28 10:42:37,055 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.Task.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), last(), any()
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:23)
+2012-11-28 10:42:37,102 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.Task.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), last(), any()
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:23)
+2012-11-28 10:42:37,149 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.Task.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), last(), any()
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:23)
+2012-11-28 10:44:00,952 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.Task.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), last(), any()
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:23)
+2012-11-28 10:44:00,960 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.Task.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), last(), any()
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:23)
+2012-11-28 10:44:00,976 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.Task.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), last(), any()
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:23)
+2012-11-28 10:44:00,984 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.Task.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), last(), any()
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:23)
+2012-11-28 10:44:01,022 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.Task.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), last(), any()
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:23)
+2012-11-28 10:44:01,030 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: com.github.blythe.todo.Task.save() is applicable for argument types: () values: []
+Possible solutions: save(), save(boolean), save(java.util.Map), wait(), last(), any()
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:23)
+2012-11-28 11:01:46,048 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:48)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at junit.framework.Assert.assertNotNull(Assert.java:218)
+	at junit.framework.Assert.assertNotNull(Assert.java:211)
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:23)
+2012-11-28 11:01:46,050 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:48)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at junit.framework.Assert.assertNotNull(Assert.java:218)
+	at junit.framework.Assert.assertNotNull(Assert.java:211)
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:23)
+2012-11-28 11:01:46,052 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:48)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at junit.framework.Assert.assertNotNull(Assert.java:218)
+	at junit.framework.Assert.assertNotNull(Assert.java:211)
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:23)
+2012-11-28 11:01:46,052 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:48)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at junit.framework.Assert.assertNotNull(Assert.java:218)
+	at junit.framework.Assert.assertNotNull(Assert.java:211)
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:23)
+2012-11-28 11:01:46,056 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:48)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at junit.framework.Assert.assertNotNull(Assert.java:218)
+	at junit.framework.Assert.assertNotNull(Assert.java:211)
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:23)
+2012-11-28 11:01:46,056 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:48)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at junit.framework.Assert.assertNotNull(Assert.java:218)
+	at junit.framework.Assert.assertNotNull(Assert.java:211)
+	at com.github.blythe.todo.TaskSpec.save Task(TaskSpec.groovy:23)
