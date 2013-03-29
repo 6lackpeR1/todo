@@ -5,5 +5,6 @@ class Task {
 	String subject
 	
     static constraints = {
+    	subject blank:false
     }
 }

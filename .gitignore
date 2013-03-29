@@ -1,2 +1,4 @@
+*.swp
 target/
 complie
+.DS_Store
